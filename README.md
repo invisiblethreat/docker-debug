@@ -20,5 +20,5 @@ configuration](https://github.com/invisiblethreat/dotfiles/blob/master/tmux.conf
 
 ## Make it yours!
 
-I'm happy to accept PRs, but maybe you'd have more run if you forked the repo
+I'm happy to accept PRs, but maybe you'd have more fun if you forked the repo
 and made something that is custom just for you!
